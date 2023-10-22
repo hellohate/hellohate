@@ -1,16 +1,12 @@
 
 <h1 style="color:white" align="center"><img SRC="assets/img1.png" width="35" align="center" > </img>Hello! I`m Zakhar</h1>
 
---------
 
 
-<p align="center">
-  <img src="assets/gif.gif" />
-</p>
+  <div align='center'><img src="assets/gif.gif" align="center"/></div>
 
 <h2 style="color:white" ><img SRC="assets/img2.png" width="35" > About me</h2>
 
---------
 
 
 <a href='https://leetcode.com/levixgod/'>![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black 'leetcode')</a>
