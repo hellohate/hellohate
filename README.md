@@ -1,5 +1,5 @@
 
-<h1 align="center"><img SRC="assets/img1.png" width="35" align="center" > </img>Hello! I`m HelloHate</h1>
+<h1 style="color:white" align="center"><img SRC="assets/img1.png" width="35" align="center" > </img>Hello! I`m Zakhar</h1>
 
 --------
 
@@ -8,29 +8,23 @@
   <img src="assets/gif.gif" />
 </p>
 
-<h2>About me</h2>
+<h2 style="color:white" ><img SRC="assets/img2.png" width="35" > About me</h2>
 
 --------
 
-<style>
-  h2,h1 {
-    color: White;
-  }
 
-  
-</style>
 <a href='https://leetcode.com/levixgod/'>![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black 'leetcode')</a>
 <a href='https://linktr.ee/hellohate'>![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white 'linktree')</a>
 <a href='https://t.me/levixgod'>![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 'telegram')</a>
 
 
-<div><div align="left"><p>I`m a Data Engineer from Ukraine, studying at Lviv Polytechnic National University 
-
+<p style="color:White ">I`m a Data Engineer from Ukraine, studying at Lviv Polytechnic National University.
+</p>
+<p style="color:White ">
 I`m interested in Data Engineer, Big Data. 
 At the same time I am working at part-time job as English Teacher in Helen Doron Education.
-</p></div>
-<div align="right">[[https://spotify-github-profile.vercel.app/api/view.svg?uid=y5s8a9nwcwdum9758cayanokn&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=y5s8a9nwcwdum9758cayanokn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
-</div>
-</div>
+</p>
+
+
 
 
