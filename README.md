@@ -5,8 +5,9 @@
 
 
 <p align="center">
-	![gif](assets/gif.gif/ 'gif
+  <img src="assets/gif.gif" />
 </p>
+
 <h2>About me</h2>
 
 --------
