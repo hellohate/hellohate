@@ -3,7 +3,7 @@
 
 --------
 
-<div align='Center'>![gif](assets/gif.gif/ 'gif')</div>
+<div align="center">![gif](assets/gif.gif/ 'gif')</div>
 
 <h2>About me</h2>
 
