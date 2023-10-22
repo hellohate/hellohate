@@ -13,9 +13,6 @@
 --------
 
 <style>
-  p {
-	color: White;	
-  } 
   h2,h1 {
     color: White;
   }
