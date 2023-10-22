@@ -3,7 +3,7 @@
 
 --------
 
-<div> ![gif](assets/gif.gif/ 'gif') </div>
+![gif](assets/gif.gif/ 'gif')
 
 <h2>About me</h2>
 
