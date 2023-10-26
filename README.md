@@ -18,7 +18,7 @@
 </p>
 <p style="color:White ">
 I`m interested in Data Engineer, Big Data. 
-At the same time I am working at part-time job as English Teacher in Helen Doron Education.
+At the same time, I am working at part-time job as English Teacher in Helen Doron Education.
 </p>
 
 
