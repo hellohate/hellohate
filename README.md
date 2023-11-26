@@ -9,7 +9,8 @@
 
 
 
-<a href='https://leetcode.com/levixgod/'>![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black 'leetcode')</a>
+<a href='https://www.codewars.com/users/hellohate'>![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+)</a>
 <a href='https://linktr.ee/hellohate'>![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white 'linktree')</a>
 <a href='https://t.me/levixgod'>![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 'telegram')</a>
 
