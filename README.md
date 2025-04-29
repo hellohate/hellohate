@@ -15,13 +15,7 @@
 <a href='https://t.me/levixgod'>![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 'telegram')</a>
 
 
-<p style="color:White ">I`m a Data Engineer from Ukraine, studying at Lviv Polytechnic National University.
+<p style="color:White ">I`m a Python Developer from Ukraine, studying at Lviv Polytechnic National University.
 </p>
-<p style="color:White ">
-I`m interested in Data Engineer, Big Data. 
-At the same time, I am working at part-time job as English Teacher in Helen Doron Education.
-</p>
-
-
 
 
